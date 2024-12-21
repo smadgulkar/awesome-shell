@@ -169,6 +169,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 * [zpyi](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
+* [spren](https://github.com/smadgulkar/spren.git) - AI-powered terminal assistant that converts natural language to shell commands for PowerShell, Bash, and CMD
 
 ## Customization
 
